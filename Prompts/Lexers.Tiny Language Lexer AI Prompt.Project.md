@@ -69,6 +69,8 @@
 	- Generate a Abstract Syntax Tree Pretty Printer.
 	- Generate all nodes in the Abstract Syntaxes Tree.
 	- Generate 25 Unit Tests for lexing the Abstract Syntax Tree.
+    - Generate an Interpreter for the Abstract Syntax Tree.
+    - Generate a Console application to run the Interpreter.
 
 
 Grammar:
